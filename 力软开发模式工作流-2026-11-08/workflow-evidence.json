@@ -1,0 +1,235 @@
+﻿{
+  "root": "D:/com.delton.serve-release",
+  "date": "2026-11-08",
+  "method": "static source tracing",
+  "refs": {
+    "R01": {
+      "path": "Learun.Application.Web/App_Start/RouteConfig.cs",
+      "line": 56,
+      "anchor": "url: \"vip/",
+      "sha256": "888d5eb2ff1595415d90a3971da34ae55961cc8a656b3083d06113a7ba82d23a"
+    },
+    "R02": {
+      "path": "Learun.Application.Web/Controllers/HomeController.cs",
+      "line": 94,
+      "anchor": "public ActionResult CommPage",
+      "sha256": "1c441bcb07525c2546152453127a10e041c3e8f2ab77bb226303e3e256320217"
+    },
+    "R03": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 94,
+      "anchor": "public ActionResult GetDataSet(",
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39"
+    },
+    "R04": {
+      "path": "Learun.Application.Web/Areas/EAP/Controllers/EAP_PartmodleMappingController.cs",
+      "line": 350,
+      "anchor": "public ActionResult GetDataSet2(",
+      "sha256": "7180d15ae24a5d999871d58741964080153594b7049f9021b196b67aaf347554"
+    },
+    "R05": {
+      "path": "Learun.Application.Web/Areas/Erp/Controllers/Erp_PartmodleMappingController.cs",
+      "line": 57,
+      "anchor": "public ActionResult GetDataSet(",
+      "sha256": "437d9e5d917134eb23fdf38ff0b5092cd813356d370b3414f3ecc893c29662ee"
+    },
+    "R06": {
+      "path": "Learun.Application.Web/Areas/SI/SIAreaRegistration.cs",
+      "line": 15,
+      "anchor": "public override void RegisterArea",
+      "sha256": "9caa73105126876c37827a9645a9e98a0fd5766a85b7c453161dd5886a7f7ac8"
+    },
+    "R07": {
+      "path": "Learun.Application.Web/Views/Shared/_Index.cshtml",
+      "line": 119,
+      "anchor": "window.onresize",
+      "sha256": "9dbedefae2c94d01383e6f5bd44ca13fec1bde1c890fd2b0362b46314a66710c"
+    },
+    "R08": {
+      "path": "Learun.Application.Web/Views/Shared/_IndexWin.cshtml",
+      "line": 112,
+      "anchor": "GetAuthorizeButtonColumnList",
+      "sha256": "9b161ba389634706179bdf7d47adacba861316fc312b81d64cee6a9129334f00"
+    },
+    "R09": {
+      "path": "Learun.Application.Web/Extensions/HtmlHelperExtensions.cs",
+      "line": 26,
+      "anchor": "public static MvcHtmlString AppendJsFile",
+      "sha256": "6edf7e7ca74f3b7e6f17714f6fb37c52f29b9c1436928b63dd36f0881f5f4e11"
+    },
+    "R10": {
+      "path": "Learun.Application.Web/Views/Shared/_Form.cshtml",
+      "line": 35,
+      "anchor": "WdatePicker.js",
+      "sha256": "1e8240b7dd8973ccc9ff72a5781fcb75c1c3b63e74b6a57f7014d11a84578459"
+    },
+    "R11": {
+      "path": "Learun.Framework.Module/Learun.Util/Learun.Util/Web/JsCssHelper.cs",
+      "line": 27,
+      "anchor": "public static string ReadJSFile",
+      "sha256": "c18bbf152d49c08018614df491ae4a6d801361daca8a273c49d968b61c7b1e1e"
+    },
+    "R12": {
+      "path": "Learun.Application.Web/Views/LR_Content/script/lr-ajax.js",
+      "line": 237,
+      "anchor": "httpAsync: function",
+      "sha256": "e263de318ab93bd81fd708613445befcbc37c5601e92293cd413edb42d4f88c2"
+    },
+    "R13": {
+      "path": "Learun.Application.Web/Views/LR_Content/plugin/grid/jfgrid.js",
+      "line": 1368,
+      "anchor": "reload: function",
+      "sha256": "486b8c3094c1f8e2f5f240141b4feb849c7998c3a6fc390f47b043fa9f3eb478"
+    },
+    "R14": {
+      "path": "Learun.Application.Web/Views/LR_Content/script/lr-form.js",
+      "line": 12,
+      "anchor": "$.fn.lrGetFormData",
+      "sha256": "9bc8495d1a8329669518f9a7e418f8c626b131df14745d35c4fa89cf9ad38ccf"
+    },
+    "R15": {
+      "path": "Learun.Application.Web/Views/LR_Content/script/lr-layer.js",
+      "line": 48,
+      "anchor": "layerForm: function",
+      "sha256": "dc92cf9666cb22f3e0a3988c3fba89bee36fd55fb8757778110a2a74c802610c"
+    },
+    "R16": {
+      "path": "Learun.Application.Web/Areas/SI/Views/HR_Skill/Form.js",
+      "line": 87,
+      "anchor": "pms.flag = 'SearchByFrom'",
+      "sha256": "be4cd8f6b107d2957d7ab69a068c621539cfa0ac15c9548cbbf5bd3d17bbe0c8"
+    },
+    "R17": {
+      "path": "Learun.Application.Web/Views/LR_Content/plugin/select/lr-select.js",
+      "line": 580,
+      "anchor": "$.fn.lrselectRefresh",
+      "sha256": "0b964070b2907b90919dbe3b635f0d10934f682ee36e71326a352cabeb1af4dd"
+    },
+    "R18": {
+      "path": "Learun.Application.Web/Areas/EAP/Views/EAP_Config/Form.js",
+      "line": 22,
+      "anchor": "pms.flag = 'SearchByFrom'",
+      "sha256": "4ca075c41c1013dd30945af6ed4356a95180be92a009f06a33f49612993a0f3e"
+    },
+    "R19": {
+      "path": "Learun.Application.Web/Views/LR_Content/script/lr-tabs.js",
+      "line": 24,
+      "anchor": "open: function",
+      "sha256": "83ef604fdde7e0a6b55bb8275478c8c9eff0b5bace2238f89869c589c91c2775"
+    },
+    "R20": {
+      "path": "Learun.Application.Web/Areas/MES/Views/PK_LabelSeriesNo/Index.js",
+      "line": 44,
+      "anchor": "flag: mode + '-page'",
+      "sha256": "b29b2a492596b042db312a70ac157528c08ea12465a6e24e96b294fc62ad1a1b"
+    },
+    "R21": {
+      "path": "Learun.Application.Web/Areas/MES/Views/PK_LabelSeriesNo/Database/pr_LabelSeriesManagement.sql",
+      "line": 1,
+      "anchor": "CREATE OR ALTER PROCEDURE",
+      "sha256": "b662dc7c4a40174aa4545a6660cdbd8423b8cfde106a5085c9000ec68e27cd61"
+    },
+    "R22": {
+      "path": "Learun.Application.Web/Areas/MES/Views/PK_LabelSeriesNo/SeriesApi.js",
+      "line": 4,
+      "anchor": "call: function",
+      "sha256": "8450aba09f3b98072534123086164467921efda192da965f184624359511820c"
+    },
+    "R23": {
+      "path": "Learun.Application.Web/Areas/EAP/Views/EAP2_AOI/eap_aoisecondleveldefect_set_save.js",
+      "line": 93,
+      "anchor": "pms.flag = 'eap_aoisecondleveldefect_set_save'",
+      "sha256": "4e34eae9c9f938715f405f8cfc5abb74b4757c1b0a4448b208ae7819490b072f"
+    },
+    "R24": {
+      "path": "Learun.Application.Web/Controllers/WmsApiProxyController.cs",
+      "line": 18,
+      "anchor": "public ActionResult Forward",
+      "sha256": "7f9138267e3f357e4e3411a4feff5031b21ff350082569b129794ca83ec608cc"
+    },
+    "R25": {
+      "path": "Learun.Application.Web/Api/WmsProxyClient.cs",
+      "line": 135,
+      "anchor": "private Uri BuildTargetUri",
+      "sha256": "1f474c7079ab9d36ac9b526cd3d6b83d76278ee69346129128aa03cff7ffb47e"
+    },
+    "R26": {
+      "path": "Learun.Application.Web/Areas/WMS/Views/FG_MasterData/Index.cshtml",
+      "line": 3,
+      "anchor": "Layout =",
+      "sha256": "768de436e263e35769117418da1a69eb3df40ce74fcfda9fc34cbd10ab70870d"
+    },
+    "R27": {
+      "path": "Learun.Application.Web/Areas/WMS/Content/Foundation/Scripts/wms-api.js",
+      "line": 16,
+      "anchor": "function normalize",
+      "sha256": "f24207c3d7fb2a4d2b163c19a3e0d087dde6aa116d81d799ebc45dbe0d0100fd"
+    },
+    "R28": {
+      "path": "Learun.Application.Web/XmlConfig/database.config",
+      "line": 2,
+      "anchor": "<connectionStrings>",
+      "sha256": "7a4ec42b86b345f17f7620f195158809b11c536c979ebec1527effdf2e92f894"
+    },
+    "R29": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "line": 722,
+      "anchor": "private static string GetProcedureConnectionString",
+      "sha256": "ba6f795e7e49a029465ab543b9ec8c79f84a3ad20c1d35e67003d6dafc7afe40"
+    },
+    "R30": {
+      "path": "Learun.Application.WebApi/Modules/WMS_FG/WMS/Modules/MasterDataMaintenanceModule.cs",
+      "line": 12,
+      "anchor": "class MasterDataMaintenanceModule",
+      "sha256": "346448341a91f1eab6029316981d3fd1251597dc9ea4dce4c459fbf855fceda2"
+    },
+    "R31": {
+      "path": "Learun.Application.Web/Controllers/NpiBd4ApiProxyController.cs",
+      "line": 11,
+      "anchor": "public ActionResult Forward",
+      "sha256": "f56bd2b22866ef4950c4e0a06fd8d266caea62aa7d3e7af5fe468ac44b3da3b2"
+    },
+    "R32": {
+      "path": "Learun.Application.WebApi/Modules/BaseApi.cs",
+      "line": 192,
+      "anchor": "private Response BeforeRequest",
+      "sha256": "cb7333be1b75cb9f741f66a27b3b8b561afbbf0d49c1433ac766c52b8882dd42"
+    },
+    "R33": {
+      "path": "Learun.Application.Web/Areas/SI/Views/HR_Skill/Form.cshtml",
+      "line": 45,
+      "anchor": "WdatePicker(",
+      "sha256": "399b4a26ee655454175ef7031455d523023aab5c78ef5e7ff8ea688a885f1935"
+    },
+    "R34": {
+      "path": "Learun.Application.Web/Areas/SI/Views/HR_Skill/Index.js",
+      "line": 482,
+      "anchor": "param.flag = 'SearchByPageList'",
+      "sha256": "240d5563ac3a6c871ba94880e70895ed1999e25002c11113be50ae83f888f857"
+    },
+    "R35": {
+      "path": "docs/力软开发规范/templates/BackEnd/2. pr_module.sql",
+      "line": 12,
+      "anchor": "CREATE OR ALTER PROCEDURE",
+      "sha256": "4ad53e9100cb997397bb815f7b7ef66635fbce3956690ff83f673d791f023f15"
+    },
+    "R36": {
+      "path": "Learun.Application.WebApi/Learun.Application.WebApi.csproj",
+      "line": 987,
+      "anchor": "Modules\\WMS_FG\\WMS\\Modules\\MasterDataMaintenanceModule.cs",
+      "sha256": "0eef1bfb6d886aefef7dc128851ee4d4881fd6a0d34d04d7ee52e36950bb505b"
+    },
+    "R37": {
+      "path": "Learun.Application.Web/Learun.Application.Web.csproj",
+      "line": 2908,
+      "anchor": "Areas\\SI\\Views\\HR_Skill\\Index.js",
+      "sha256": "5a59c48ae55cd724b9886393b23d9163f40e8cc4890ba13f66278daa5d89459c"
+    },
+    "R38": {
+      "path": "Learun.Application.Web/Areas/WMS/Views/FG_MasterData/WmsMasterDataApi.js",
+      "line": 4,
+      "anchor": "var master =",
+      "sha256": "4363fd5b43d4936a76af1864784325727528db35de939b75b503759ac1f85270"
+    }
+  }
+}

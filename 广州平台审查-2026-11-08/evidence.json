@@ -1,0 +1,535 @@
+﻿{
+  "root": "D:/com.delton.serve-release",
+  "date": "2026-11-08",
+  "method": "static-source-audit",
+  "evidence": {
+    "download": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 415,
+      "matching_lines": [
+        415
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "public ActionResult DownReportFile("
+    },
+    "export": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 333,
+      "matching_lines": [
+        333
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "public ActionResult ExportReport("
+    },
+    "writefile": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 435,
+      "matching_lines": [
+        435
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "Response.WriteFile(filePath)"
+    },
+    "getstring": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 139,
+      "matching_lines": [
+        139
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "public ActionResult GetString("
+    },
+    "poststring": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 185,
+      "matching_lines": [
+        185
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "public ActionResult PostString("
+    },
+    "dataset": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 94,
+      "matching_lines": [
+        94
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "public ActionResult GetDataSet("
+    },
+    "page": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 231,
+      "matching_lines": [
+        231
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "public ActionResult GetDataTablePageList("
+    },
+    "exec": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "line": 708,
+      "matching_lines": [
+        708
+      ],
+      "sha256": "ba6f795e7e49a029465ab543b9ec8c79f84a3ad20c1d35e67003d6dafc7afe40",
+      "anchor": "public static string ExecStoredProcedure("
+    },
+    "core": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "line": 737,
+      "matching_lines": [
+        737
+      ],
+      "sha256": "ba6f795e7e49a029465ab543b9ec8c79f84a3ad20c1d35e67003d6dafc7afe40",
+      "anchor": "private static string ExecuteProcedureCore("
+    },
+    "data_error": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "line": 1032,
+      "matching_lines": [
+        1032
+      ],
+      "sha256": "ba6f795e7e49a029465ab543b9ec8c79f84a3ad20c1d35e67003d6dafc7afe40",
+      "anchor": "public static DataSet GetDataSet("
+    },
+    "export_error": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MDM/SiInplanjob/SiInplanjobService.cs",
+      "line": 1131,
+      "matching_lines": [
+        1131
+      ],
+      "sha256": "ba6f795e7e49a029465ab543b9ec8c79f84a3ad20c1d35e67003d6dafc7afe40",
+      "anchor": "public static List<DataTable> ExecProcMulFromNetEAPDb_P2("
+    },
+    "authorize": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Base/AuthorizeModule/DataAuthorize/DataAuthorizeBLL.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Application.Module/Learun.Application.Base/AuthorizeModule/DataAuthorize/DataAuthorizeBLL.cs",
+      "line": 233,
+      "matching_lines": [
+        233
+      ],
+      "sha256": "440df84b6235b23f86b2e117ba4081c529df9f2d552a641d4b02e3511c2d60f1",
+      "anchor": "public bool SetWhereSql(string url"
+    },
+    "auth_store": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Base/AuthorizeModule/DataAuthorize/DataAuthorizeBLL.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Application.Module/Learun.Application.Base/AuthorizeModule/DataAuthorize/DataAuthorizeBLL.cs",
+      "line": 404,
+      "matching_lines": [
+        404,
+        443
+      ],
+      "sha256": "440df84b6235b23f86b2e117ba4081c529df9f2d552a641d4b02e3511c2d60f1",
+      "anchor": "WebHelper.AddHttpItems(\"DataAhthorCondition\""
+    },
+    "login": {
+      "path": "Learun.Application.Web/App_Start/01 Handler/MvcControllerBase.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/App_Start/01 Handler/MvcControllerBase.cs",
+      "line": 15,
+      "matching_lines": [
+        15
+      ],
+      "sha256": "b246b39f241bc3c855f388a80d73ca48c8a56b6ea0a2f6eb6eb46fbef0465f1a",
+      "anchor": "[HandlerLogin(FilterMode.Enforce)]"
+    },
+    "login_filter": {
+      "path": "Learun.Application.Web/App_Start/01 Handler/HandlerLoginAttribute.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/App_Start/01 Handler/HandlerLoginAttribute.cs",
+      "line": 29,
+      "matching_lines": [
+        29
+      ],
+      "sha256": "355f17c1d698ee45a943d3ec8bd6af2366b2c6bf60bee9c00260308a7fa1767a",
+      "anchor": "public override void OnAuthorization"
+    },
+    "delete_caller": {
+      "path": "Learun.Application.Web/Areas/SI/Views/HR_Skill/Index.js",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Views/HR_Skill/Index.js",
+      "line": 70,
+      "matching_lines": [
+        70
+      ],
+      "sha256": "240d5563ac3a6c871ba94880e70895ed1999e25002c11113be50ae83f888f857",
+      "anchor": "pms.flag = 'Delete'"
+    },
+    "identity_caller": {
+      "path": "Learun.Application.Web/Areas/SI/Views/HR_Skill/Form.js",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Views/HR_Skill/Form.js",
+      "line": 113,
+      "matching_lines": [
+        113
+      ],
+      "sha256": "be4cd8f6b107d2957d7ab69a068c621539cfa0ac15c9548cbbf5bd3d17bbe0c8",
+      "anchor": "pms.CreateBy = loginInfo.userId"
+    },
+    "export_caller": {
+      "path": "Learun.Application.Web/Areas/SI/Views/HR_Skill/Index.js",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Views/HR_Skill/Index.js",
+      "line": 92,
+      "matching_lines": [
+        92
+      ],
+      "sha256": "240d5563ac3a6c871ba94880e70895ed1999e25002c11113be50ae83f888f857",
+      "anchor": "/SI/SI_PartmodleMapping/ExportReport"
+    },
+    "fast_create": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 447,
+      "matching_lines": [
+        447
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "public ActionResult CreateFastExportTaskEAPDb_P2("
+    },
+    "fast_download": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 517,
+      "matching_lines": [
+        517
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "public ActionResult DownFastReportFileEAPDb_P2("
+    },
+    "fast_exec": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 565,
+      "matching_lines": [
+        565
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "private static void ExecuteFastExportTaskEAPDb_P2("
+    },
+    "fast_writer": {
+      "path": "Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/SI/Controllers/SI_PartmodleMappingController.cs",
+      "line": 893,
+      "matching_lines": [
+        893
+      ],
+      "sha256": "e4c293a129dae77e76cccb3a2f500dbe700d606f7591966b587e97495982ea39",
+      "anchor": "private static void WriteFastExportWorkbook("
+    },
+    "new_controller": {
+      "path": "Learun.Application.Web/Areas/DT_ToolsModule/Controllers/ReportExportController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/DT_ToolsModule/Controllers/ReportExportController.cs",
+      "line": 16,
+      "matching_lines": [
+        16
+      ],
+      "sha256": "9681af1336fe6dc73e293e60ea7e5efd80af057e153f0af1e8903bc59e75c115",
+      "anchor": "public ActionResult CreateTask("
+    },
+    "new_owner": {
+      "path": "Learun.Application.Web/Areas/DT_ToolsModule/Controllers/ReportExportController.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Areas/DT_ToolsModule/Controllers/ReportExportController.cs",
+      "line": 101,
+      "matching_lines": [
+        101
+      ],
+      "sha256": "9681af1336fe6dc73e293e60ea7e5efd80af057e153f0af1e8903bc59e75c115",
+      "anchor": "private static bool Owns("
+    },
+    "new_path": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/DT/ReportDownload/ReportExportFileStore.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/DT/ReportDownload/ReportExportFileStore.cs",
+      "line": 9,
+      "matching_lines": [
+        9
+      ],
+      "sha256": "4dbe153610b528da5e11698d1301d53eb2770005b457ef22bded2433fe4f1c46",
+      "anchor": "public static string Resolve("
+    },
+    "new_executor": {
+      "path": "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/DT/ReportDownload/ReportExportExecutor.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/DT/ReportDownload/ReportExportExecutor.cs",
+      "line": 13,
+      "matching_lines": [
+        13
+      ],
+      "sha256": "3dca9f94e588727f5563ee706d330aa479d1a4dce1ed934edeedddb33467620b",
+      "anchor": "public void Execute("
+    },
+    "web_start": {
+      "path": "Learun.Application.Web/Global.asax.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Global.asax.cs",
+      "line": 31,
+      "matching_lines": [
+        31
+      ],
+      "sha256": "02771846293ceddae4fdfd291d5aebe8ebbb8edd9c574aaa6d6e6c02835ad22d",
+      "anchor": "protected void Application_Start()"
+    },
+    "api_start": {
+      "path": "Learun.Application.WebApi/Startup.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.WebApi/Startup.cs",
+      "line": 17,
+      "matching_lines": [
+        17
+      ],
+      "sha256": "3ddd2f90d6a0214fc83e510a0ff92aad2495020dfc394210b88b693e069f9eff",
+      "anchor": "public void Configuration("
+    },
+    "api_auth": {
+      "path": "Learun.Application.WebApi/Modules/BaseApi.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.WebApi/Modules/BaseApi.cs",
+      "line": 192,
+      "matching_lines": [
+        192
+      ],
+      "sha256": "cb7333be1b75cb9f741f66a27b3b8b561afbbf0d49c1433ac766c52b8882dd42",
+      "anchor": "private Response BeforeRequest("
+    },
+    "cors": {
+      "path": "Learun.Application.WebApi/Bootstraper.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.WebApi/Bootstraper.cs",
+      "line": 35,
+      "matching_lines": [
+        35
+      ],
+      "sha256": "bf4e3443c7d5c7a7f0cf2fd827a55dac9e89e4bce47fc95098c9367b058e133f",
+      "anchor": "Access-Control-Allow-Origin"
+    },
+    "web_framework": {
+      "path": "Learun.Application.Web/Learun.Application.Web.csproj",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Learun.Application.Web.csproj",
+      "line": 16,
+      "matching_lines": [
+        16
+      ],
+      "sha256": "5a59c48ae55cd724b9886393b23d9163f40e8cc4890ba13f66278daa5d89459c",
+      "anchor": "<TargetFrameworkVersion>"
+    },
+    "api_framework": {
+      "path": "Learun.Application.WebApi/Learun.Application.WebApi.csproj",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.WebApi/Learun.Application.WebApi.csproj",
+      "line": 16,
+      "matching_lines": [
+        16
+      ],
+      "sha256": "0eef1bfb6d886aefef7dc128851ee4d4881fd6a0d34d04d7ee52e36950bb505b",
+      "anchor": "<TargetFrameworkVersion>"
+    },
+    "ajax": {
+      "path": "Learun.Application.Web/Views/LR_Content/script/lr-ajax.js",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Views/LR_Content/script/lr-ajax.js",
+      "line": 237,
+      "matching_lines": [
+        237
+      ],
+      "sha256": "e263de318ab93bd81fd708613445befcbc37c5601e92293cd413edb42d4f88c2",
+      "anchor": "httpAsync: function"
+    },
+    "layout": {
+      "path": "Learun.Application.Web/Views/Shared/_Index.cshtml",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/Views/Shared/_Index.cshtml",
+      "line": 18,
+      "matching_lines": [
+        18
+      ],
+      "sha256": "9dbedefae2c94d01383e6f5bd44ca13fec1bde1c890fd2b0362b46314a66710c",
+      "anchor": "jquery-1.10.2.min.js"
+    },
+    "route": {
+      "path": "Learun.Application.Web/App_Start/RouteConfig.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Application.Web/App_Start/RouteConfig.cs",
+      "line": 56,
+      "matching_lines": [
+        56
+      ],
+      "sha256": "888d5eb2ff1595415d90a3971da34ae55961cc8a656b3083d06113a7ba82d23a",
+      "anchor": "url: \"vip/"
+    },
+    "excel": {
+      "path": "Learun.Framework.Module/Learun.Util/Learun.Util/Excel/ExcelHelper.cs",
+      "absolute_path": "D:/com.delton.serve-release/Learun.Framework.Module/Learun.Util/Learun.Util/Excel/ExcelHelper.cs",
+      "line": 1036,
+      "matching_lines": [
+        1036
+      ],
+      "sha256": "b232f8e7eab8888b62e179c8eb1cf9a8853d38cf237fcd5e52141d842318472e",
+      "anchor": "public static void tablesToExcel("
+    },
+    "manual": {
+      "path": "docs/力软开发规范/开发规范与组件手册.html",
+      "absolute_path": "D:/com.delton.serve-release/docs/力软开发规范/开发规范与组件手册.html",
+      "line": 13,
+      "matching_lines": [
+        13
+      ],
+      "sha256": "5659a4e71d2ce865ea05b7994979e88b65c961c9e1a1fa2129d5748a1bc22d75",
+      "anchor": "id=\"scope\""
+    }
+  },
+  "counts": {
+    ".sql": 89,
+    ".js": 3368,
+    ".cshtml": 2637,
+    ".csproj": 42,
+    ".cs": 4105
+  },
+  "projects": [
+    "Learun.Application.AutoDownload/Learun.Application.AutoDownload.csproj",
+    "Learun.Application.IMServer/Learun.Application.IMServer.csproj",
+    "Learun.Application.Mobile/plugins/phonegap-plugin-barcodescanner/src/windows/lib/WinRTBarcodeReader.csproj",
+    "Learun.Application.Organization/Learun.Application.Organization.csproj",
+    "Learun.Application.Web/Learun.Application.Web.csproj",
+    "Learun.Application.WebApi/Learun.Application.WebApi.csproj",
+    "Learun.Application.WebApi/Modules/WMS_FG/WMS/Standalone/WMS.Standalone.csproj",
+    "Learun.Application.WebApi/Modules/WMS_FG/WMS-Map/Tests/WMS.Map.Tests.csproj",
+    "Learun.Application.Website/Learun.Application.Website.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/DT.BarTenderApi/DT.BarTenderApi.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.AppMagager/Learun.Application.AppMagager.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Base/Learun.Application.Base.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.CRM/Learun.Application.CRM.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Excel/Learun.Application.Excel.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Extention/Learun.Application.Extention.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Form/Learun.Application.Form.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.IM/Learun.Application.IM.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Language/Learun.Application.Language.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/Learun.Application.Mapping.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Message/Learun.Application.Message.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.OA/Learun.Application.OA.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Report/Learun.Application.Report.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/Learun.Application.TwoDevelopment.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.WeChat/Learun.Application.WeChat.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.WorkFlow/Learun.Application.WorkFlow.csproj",
+    "Learun.Framework.Module/Learun.Cache/Learun.Cache.Base/Learun.Cache.Base.csproj",
+    "Learun.Framework.Module/Learun.Cache/LeaRun.Cache.Factory/Learun.Cache.Factory.csproj",
+    "Learun.Framework.Module/Learun.Cache/Learun.Cache.Redis/Learun.Cache.Redis.csproj",
+    "Learun.Framework.Module/Learun.Db/Learun.DataBase/Learun.DataBase.csproj",
+    "Learun.Framework.Module/Learun.Db/Learun.DataBase.EF.Oracle/Learun.DataBase.Oracle.csproj",
+    "Learun.Framework.Module/Learun.Db/Learun.DataBase.EF.Sqlserver/Learun.DataBase.SqlServer.csproj",
+    "Learun.Framework.Module/Learun.Db/Learun.DataBase.MySql/Learun.DataBase.MySqlEx.csproj",
+    "Learun.Framework.Module/Learun.Db/Learun.DataBase.Repository/Learun.DataBase.Repository.csproj",
+    "Learun.Framework.Module/Learun.Ioc/Learun.Ioc.csproj",
+    "Learun.Framework.Module/Learun.Log/Learun.Loger.csproj",
+    "Learun.Framework.Module/Learun.Util/Learun.Util/Learun.Util.csproj",
+    "Learun.Framework.Module/Learun.Util/Learun.Util.Office2Pdf/Learun.Util.Office2Pdf.csproj",
+    "Learun.Framework.Module/Learun.Util/Learun.Util.Operat/Learun.Util.Operat.csproj",
+    "Learun.Framework.Module/Learun.Util/Learun.Util.Wps/Learun.Util.Wps.csproj",
+    "Learun.Framework.Module/Learun.Workflow/Learun.Workflow.Engine/Learun.Workflow.Engine.csproj",
+    "Learun.Plugin/Learun.Plugin.csproj",
+    "SignalR/SignalR.csproj"
+  ],
+  "test_file_inventory": [
+    "Learun.Application.Mobile/plugins/cordova-plugin-camera/tests/tests.js",
+    "Learun.Application.Mobile/plugins/cordova-plugin-device/tests/tests.js",
+    "Learun.Application.Mobile/plugins/cordova-plugin-file/tests/tests.js",
+    "Learun.Application.Mobile/plugins/cordova-plugin-file-transfer/tests/tests.js",
+    "Learun.Application.Mobile/plugins/cordova-plugin-geolocation/tests/tests.js",
+    "Learun.Application.Mobile/plugins/cordova-plugin-photo-library/tests/test-utils.js",
+    "Learun.Application.Mobile/plugins/cordova-plugin-photo-library/tests/tests.js",
+    "Learun.Application.Mobile/plugins/cordova-plugin-splashscreen/tests/tests.js",
+    "Learun.Application.Mobile/plugins/cordova-plugin-statusbar/tests/tests.js",
+    "Learun.Application.Web/Areas/DT_ToolsModule/Views/DT_WecomNotificationSystem/Form_SendTest.js",
+    "Learun.Application.Web/Areas/EAP/Views/MID_Panel/LineWidthTestIndex.js",
+    "Learun.Application.Web/Areas/LR_CodeDemo/Controllers/EQP_TEST_QUERYController.cs",
+    "Learun.Application.Web/Areas/LR_CodeDemo/Controllers/M_MOM_EQP_TESTPTController.cs",
+    "Learun.Application.Web/Areas/LR_CodeDemo/Controllers/TEST_PLANController.cs",
+    "Learun.Application.Web/Areas/LR_CodeDemo/Controllers/T_MOM_EQP_TESTPTController.cs",
+    "Learun.Application.Web/Areas/LR_SystemModule/Views/DataSource/TestForm.js",
+    "Learun.Application.Web/Areas/MES/Controllers/QA_PhyTestRoomBaseController.cs",
+    "Learun.Application.Web/Areas/MES/Controllers/QA_PhyTestRoomBaseExceededAnalyseController.cs",
+    "Learun.Application.Web/Areas/MES/Controllers/QA_PhyTestRoomControllController.cs",
+    "Learun.Application.Web/Areas/MES/Views/EAP2_ApiUpload/Tests/NestedJsonTests.cs",
+    "Learun.Application.Web/Areas/MES/Views/EAP2_ApiUpload/Tests/Run-NestedJsonTests.ps1",
+    "Learun.Application.Web/Areas/WMS/Views/DT_LabelTemplate/Tests/download-copies.test.js",
+    "Learun.Application.Web/Areas/WMS/Views/DT_LabelTemplate/Tests/function-management.test.js",
+    "Learun.Application.Web/Areas/WMS/Views/DT_LabelTemplate/Tests/print-management.test.js",
+    "Learun.Application.Web/Areas/WMS/Views/DT_LabelTemplate/Tests/refresh-fields.test.js",
+    "Learun.Application.WebApi/Modules/DT_DataAcquisitionSystem/Application/DTOs/TestAcquisitionDto.cs",
+    "Learun.Application.WebApi/Modules/DT_DataAcquisitionSystem/Application/Services/ITestAcquisitionService.cs",
+    "Learun.Application.WebApi/Modules/DT_DataAcquisitionSystem/Application/Services/Implementations/TestAcquisitionService.cs",
+    "Learun.Application.WebApi/Modules/DT_DataAcquisitionSystem/WebApi/Controllers/TestAcquisitionController.cs",
+    "Learun.Application.WebApi/Modules/DT_ToolsModule/DT_DirectoryFileInspector/Tests/TestCases.cs",
+    "Learun.Application.WebApi/Modules/WMS/DT_LabelTemplate/Tests/SharedFieldSmokeTests.cs",
+    "Learun.Application.WebApi/Modules/WMS_FG/Build/Test-Standalone.ps1",
+    "Learun.Application.WebApi/Modules/WMS_FG/WMS-Map/Tests/WMS.Map.Tests.csproj",
+    "Learun.Framework.Module/Learun.Application.Module/DT.BarTenderApi/Tests/MetadataMappingSmokeTests.cs",
+    "Learun.Framework.Module/Learun.Application.Module/DT.BarTenderApi/Tests/TemplateSyncSmokeTests.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/LR_CodeDemo/M_MOM_EQP_TESTPTMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/LR_CodeDemo/M_MOM_EQP_TESTPT_DMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/LR_CodeDemo/M_MOM_EQP_TESTPT_PLANMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/LR_CodeDemo/T_MOM_EQP_TESTPTMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/LR_CodeDemo/T_MOM_EQP_TESTPT_DMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/MES/PP_StandardCostEstimateMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/MES/QA_PhyTestRoomBaseExceededAnalyseMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/MES/QA_PhyTestRoomBaseMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.Mapping/MES/QA_PhyTestRoomControllMap.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/EQP_TEST_QUERY/EQP_TEST_QUERYBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/EQP_TEST_QUERY/EQP_TEST_QUERYIBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/EQP_TEST_QUERY/EQP_TEST_QUERYService.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/M_MOM_EQP_TESTPT/M_MOM_EQP_TESTPTBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/M_MOM_EQP_TESTPT/M_MOM_EQP_TESTPTEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/M_MOM_EQP_TESTPT/M_MOM_EQP_TESTPTIBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/M_MOM_EQP_TESTPT/M_MOM_EQP_TESTPTService.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/M_MOM_EQP_TESTPT/M_MOM_EQP_TESTPT_DEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/TEST_PLAN/M_MOM_EQP_TESTPT_PLANEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/TEST_PLAN/TEST_PLANBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/TEST_PLAN/TEST_PLANIBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/TEST_PLAN/TEST_PLANService.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/T_MOM_EQP_TESTPT/T_MOM_EQP_TESTPTBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/T_MOM_EQP_TESTPT/T_MOM_EQP_TESTPTEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/T_MOM_EQP_TESTPT/T_MOM_EQP_TESTPTIBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/T_MOM_EQP_TESTPT/T_MOM_EQP_TESTPTService.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/LR_CodeDemo/T_MOM_EQP_TESTPT/T_MOM_EQP_TESTPT_DEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/PP_StandardCostEstimate/PP_StandardCostEstimateBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/PP_StandardCostEstimate/PP_StandardCostEstimateEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/PP_StandardCostEstimate/PP_StandardCostEstimateIBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/PP_StandardCostEstimate/PP_StandardCostEstimateService.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomBase/QA_PhyTestRoomBaseBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomBase/QA_PhyTestRoomBaseEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomBase/QA_PhyTestRoomBaseIBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomBase/QA_PhyTestRoomBaseService.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomBaseExceededAnalyse/QA_PhyTestRoomBaseExceededAnalyseBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomBaseExceededAnalyse/QA_PhyTestRoomBaseExceededAnalyseEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomBaseExceededAnalyse/QA_PhyTestRoomBaseExceededAnalyseIBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomBaseExceededAnalyse/QA_PhyTestRoomBaseExceededAnalyseService.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomControll/QA_PhyTestRoomControllBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomControll/QA_PhyTestRoomControllEntity.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomControll/QA_PhyTestRoomControllIBLL.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/MES/QA_PhyTestRoomControll/QA_PhyTestRoomControllService.cs",
+    "Learun.Framework.Module/Learun.Application.Module/Learun.Application.TwoDevelopment/NPI/NPI_SummaryEntity/DTO/UpdateStatusInput.cs",
+    "tests/BarTender/HealthPage.test.js",
+    "tests/BarTender/Run-SmokeTests.ps1",
+    "tests/BarTender/TemplateSynchronizationTests.cs",
+    "tests/web-deploy/endpoint-host.tests.ps1",
+    "tests/web-deploy/full-install.tests.js",
+    "tests/web-deploy/run-tests.ps1",
+    "tests/web-deploy/web-deploy-ui.tests.js",
+    "tests/web-deploy/WebDeploy.Tests.cs"
+  ],
+  "excluded_directories": [
+    ".git",
+    ".report-export-verification",
+    ".svn",
+    ".vs",
+    "artifacts",
+    "bin",
+    "node_modules",
+    "obj",
+    "packages"
+  ],
+  "offline_path_check": "parent segment resolves outside export root; no actual file read",
+  "limitations": [
+    "No runtime test",
+    "No DB connection",
+    "No build",
+    "No production access"
+  ]
+}
