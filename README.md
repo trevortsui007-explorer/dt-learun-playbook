@@ -55,6 +55,6 @@ git remote add origin https://github.com/trevortsui007-explorer/dt-learun-playbo
 git push -u origin main
 ```
 
-也可先把 `dist/dt-learun-playbook.bundle` 发给同事：`git clone <bundle文件路径> dt-learun-playbook`。bundle 仅包含已提交历史；后续持续协作仍应连接统一远程仓库。更新 bundle 使用 `git bundle create dist/dt-learun-playbook.bundle --all`。
+也可先把 `dist/dt-learun-playbook.bundle` 发给同事：`git clone <bundle文件路径> dt-learun-playbook`。bundle 仅包含已提交历史；后续持续协作仍应连接统一远程仓库。更新 bundle 使用 `git bundle create dist/dt-learun-playbook.bundle main`。
 
 静态审查不能替代线上数据库、权限、IIS 配置、性能或业务验收。东莞平台尚未对照。
